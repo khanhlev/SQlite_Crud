@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/LTDD/LT_LTDD/Tuan7/Bai2/app/src/main/res/layout/activity_add_or_edit_employee.xml" value="0.21240942028985507" />
+        <entry key="..\:/LTDD/LT_LTDD/Tuan7/Bai2/app/src/main/res/layout/activity_employee_adapter.xml" value="0.12158054711246201" />
         <entry key="..\:/LTDD/LT_LTDD/Tuan7/Bai2/app/src/main/res/layout/activity_main.xml" value="0.21240942028985507" />
+        <entry key="..\:/LTDD/LT_LTDD/Tuan7/Bai2/app/src/main/res/layout/layout_employee_item.xml" value="0.12158054711246201" />
       </map>
     </option>
   </component>

@@ -15,13 +15,13 @@
         android:orientation="vertical">
 
         <TextView
-            android:id="@+id/textView"
+            android:id="@+id/textviewEmployeeid"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
             android:text="Employee_ID" />
 
-        <EditText
+            <EditText
             android:id="@+id/etEmployeeid"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -32,7 +32,7 @@
             android:padding="5dp" />
 
         <TextView
-            android:id="@+id/textView2"
+            android:id="@+id/textviewName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
@@ -49,7 +49,7 @@
             android:padding="5dp" />
 
         <TextView
-            android:id="@+id/textView3"
+            android:id="@+id/textviewSalary"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
