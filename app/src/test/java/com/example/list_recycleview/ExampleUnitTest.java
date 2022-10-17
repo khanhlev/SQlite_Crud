@@ -1,4 +1,4 @@
-package com.example.sqlite;
+package com.example.list_recycleview;
 
 import org.junit.Test;
 
