@@ -3,10 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/LTDD/LT_LTDD/Tuan7/Bai2/app/src/main/res/layout/activity_add_or_edit_employee.xml" value="0.21240942028985507" />
-        <entry key="..\:/LTDD/LT_LTDD/Tuan7/Bai2/app/src/main/res/layout/activity_employee_adapter.xml" value="0.12158054711246201" />
-        <entry key="..\:/LTDD/LT_LTDD/Tuan7/Bai2/app/src/main/res/layout/activity_main.xml" value="0.21240942028985507" />
-        <entry key="..\:/LTDD/LT_LTDD/Tuan7/Bai2/app/src/main/res/layout/layout_employee_item.xml" value="0.12158054711246201" />
+        <entry key="..\:/LTDD/TH_LTDD/Tuan9/SQLite/app/src/main/res/layout/activity_create_author.xml" value="0.12158054711246201" />
+        <entry key="..\:/LTDD/TH_LTDD/Tuan9/SQLite/app/src/main/res/layout/activity_insert_book.xml" value="0.12158054711246201" />
+        <entry key="..\:/LTDD/TH_LTDD/Tuan9/SQLite/app/src/main/res/layout/activity_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/LTDD/TH_LTDD/Tuan9/SQLite/app/src/main/res/layout/layout_show_data.xml" value="0.12158054711246201" />
+        <entry key="..\:/LTDD/TH_LTDD/Tuan9/SQLite/app/src/main/res/layout/layout_show_data2.xml" value="0.1" />
+        <entry key="..\:/LTDD/TH_LTDD/Tuan9/SQLite/app/src/main/res/layout/my_layout_for_show_list_data.xml" value="0.176" />
+        <entry key="..\:/LTDD/TH_LTDD/Tuan9/SQLite/app/src/main/res/menu/activity_create_author.xml" value="0.1962962962962963" />
+        <entry key="..\:/LTDD/TH_LTDD/Tuan9/SQLite/app/src/main/res/menu/activity_insert_book.xml" value="0.1962962962962963" />
+        <entry key="..\:/LTDD/TH_LTDD/Tuan9/SQLite/app/src/main/res/menu/activity_main.xml" value="0.1962962962962963" />
+        <entry key="..\:/LTDD/TH_LTDD/Tuan9/SQLite/app/src/main/res/menu/activity_simple_database_main.xml" value="0.1962962962962963" />
       </map>
     </option>
   </component>
